@@ -70,6 +70,12 @@ Pour les commandes suivantes, nous admettons que l’adresse IP locale de la Bri
 % sudo apt-get update && sudo apt-get dist-upgrade
 ```
 
+Il peut être nécessaire de redémarrer la brique à ce moment (si certains paquets critiques sont mis à jour) :
+
+```bash
+% reboot
+```
+
 ## Étapes de configuration
 
 <div class="alert alert-info" markdown="1">
